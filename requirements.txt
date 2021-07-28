@@ -1,0 +1,10 @@
+conda install h5py 
+conda install tqdm
+pip install opencv-python
+# warm up
+pip install -U pytorch_warmup
+pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
+# apex
+git clone https://github.com/NVIDIA/apex
+cd apex
+pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./

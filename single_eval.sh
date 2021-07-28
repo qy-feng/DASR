@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python main.py --resume_path exp_lmm/best_model.pth --test_data pixel --exp_name test --eval 
