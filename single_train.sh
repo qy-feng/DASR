@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=3 python main.py --exp_name exp_lmm/no_SCM --gpu 3 --test_data pixel

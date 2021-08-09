@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=5 python main.py --gpu 5 --exp_name AC_exp/cont_e4_pascal --test_data pascal --model_type a

@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=2 --gpu 1 python main.py --exp_name AC_exp/self_att --test_data pixel --model_type i

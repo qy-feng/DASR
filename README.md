@@ -1,18 +1,12 @@
-# Domain Adaptation for 3D reconstruction
+# Perspective Adaptative Transformer for Single-view 3D reconstruction
 
 [Data](./data/README.md)
 
 --data_type pixel | pascal
 
-### Baseline
+### Requirement
 
-sh baseline.sh
+pip install requirement.txt
 
 ### train
-
-sh single_train.sh
-
-
-### evaluation
-
-sh single_eval.sh
+sh run.sh
