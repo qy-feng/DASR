@@ -1,4 +1,4 @@
-# Perspective Adaptative Transformer for Single-view 3D reconstruction
+# Domain Adaptative Single-view 3D reconstruction
 
 [Data](./data/README.md)
 
